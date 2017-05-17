@@ -1,3 +1,7 @@
 html {
   text-align: center;
 }
+.center {
+  margin-left:auto;
+  margin-right:auto;
+}
